@@ -29,7 +29,7 @@ import models.enroll;
 /**
  * FXML Controller class
  *
- * @author AL
+ * @author Raghad Saqallah
  */
 public class EnrollmentController implements Initializable {
 

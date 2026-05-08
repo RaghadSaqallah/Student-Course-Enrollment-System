@@ -7,7 +7,7 @@ package models;
 
 /**
  *
- * @author AL
+ * @author Raghad Saqallah
  */
 public class courses {
     private int course_id;

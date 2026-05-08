@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author AL
+ * @author Raghad Saqallah
  */
 public class coursesDAO {
     

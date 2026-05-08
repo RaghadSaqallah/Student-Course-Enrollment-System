@@ -18,7 +18,7 @@ import java.sql.Connection;
 
 /**
  *
- * @author aya
+ * @author Raghad Saqallah
  */
 public class Main extends Application{
     public static void main(String[] args) {

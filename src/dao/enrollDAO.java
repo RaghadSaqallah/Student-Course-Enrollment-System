@@ -18,7 +18,7 @@ import java.sql.PreparedStatement;
 
 /**
  *
- * @author AL
+ * @author Raghad Saqallah
  */
 public class enrollDAO {
 
